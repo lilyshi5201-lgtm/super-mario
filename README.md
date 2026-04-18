@@ -16,7 +16,7 @@ A feature-complete, Mario-inspired platformer built from scratch using **Python*
 * **Robust Engine:** * Dynamic camera system that follows the player.
     * Particle effects for breaking bricks and defeating enemies.
     * **Asset Fallback System:** The game automatically generates colored placeholders if assets are missing, making the code runnable out of the box.
-
+there is a new game version
 ---
 
 ## 🎮 Controls
